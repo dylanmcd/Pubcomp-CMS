@@ -1,7 +1,7 @@
 /* HTML Options */
 html {}
 body {font-family: Arial, Helvetica, sans-serif; font-size:12px; line-height:19px; color:#fefefe; background-color:#15161a;}
-a { color:#3067C4; text-decoration:none;}
+a { color:#f9f9f9; text-decoration:none;}
 a:hover { color:#AACBFF; text-decoration:none;}
 
 @font-face {
