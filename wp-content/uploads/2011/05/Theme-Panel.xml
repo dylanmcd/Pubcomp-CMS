@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<wp_smokes>
+  <row>
+    <id>1</id>
+    <item_id>general_default</item_id>
+    <item_title>General</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>2</id>
+    <item_id>upload</item_id>
+    <item_title>Logo Upload</item_title>
+    <item_desc>Upload Your Logo</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>3</id>
+    <item_id>logo</item_id>
+    <item_title>Logo Image URL</item_title>
+    <item_desc>W: 220px H: 103px</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>4</id>
+    <item_id>slider_home_page</item_id>
+    <item_title>Slider</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>5</id>
+    <item_id>uploadimageslide</item_id>
+    <item_title>Upload Slide Image</item_title>
+    <item_desc>Upload Your Slide Image</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>6</id>
+    <item_id>slide</item_id>
+    <item_title>Slide</item_title>
+    <item_desc>Add Home Page Slide, W: 992px H: 492px</item_desc>
+    <item_type>slider</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>7</id>
+    <item_id>advert_area</item_id>
+    <item_title>Advert Area</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>8</id>
+    <item_id>upload_advert</item_id>
+    <item_title>Upload All Advert Image</item_title>
+    <item_desc>Upload Image</item_desc>
+    <item_type>upload</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>9</id>
+    <item_id>advert1_image</item_id>
+    <item_title>Advert 1 - Image</item_title>
+    <item_desc>W: 282px H: 177px</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>10</id>
+    <item_id>advert1_title</item_id>
+    <item_title>Advert 1 - Title</item_title>
+    <item_desc>Title Advert</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>11</id>
+    <item_id>advert1_title_two</item_id>
+    <item_title>Advert 1 - Title Two</item_title>
+    <item_desc>Title Two</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>12</id>
+    <item_id>advert1_des</item_id>
+    <item_title>Advert 1 - Description</item_title>
+    <item_desc>Advert Description</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>4</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>13</id>
+    <item_id>advert1_link</item_id>
+    <item_title>Advert 1 - Link</item_title>
+    <item_desc>Insert to Link</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>14</id>
+    <item_id>advert1_link_name</item_id>
+    <item_title>Advert 1 - Button Name</item_title>
+    <item_desc>Insert Button Name</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>15</id>
+    <item_id>advert2_image</item_id>
+    <item_title>Advert 2 - Image</item_title>
+    <item_desc>W: 282px H: 177px</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>16</id>
+    <item_id>advert2_title</item_id>
+    <item_title>Advert 2 - Title</item_title>
+    <item_desc>Insert Your Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>17</id>
+    <item_id>advert2_title_two</item_id>
+    <item_title>Advert 2 - Title Two</item_title>
+    <item_desc>Inser Title Two</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>18</id>
+    <item_id>advert2_des</item_id>
+    <item_title>Advert 2 - Description</item_title>
+    <item_desc>Insert Advert Description</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>4</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>19</id>
+    <item_id>advert2_link</item_id>
+    <item_title>Advert 2 - Link</item_title>
+    <item_desc>Insert Advert Link</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>20</id>
+    <item_id>advert2_link_name</item_id>
+    <item_title>Advert 2 - Button Name</item_title>
+    <item_desc>Insert Button Name</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>21</id>
+    <item_id>advert3_image</item_id>
+    <item_title>Advert 3 - Image</item_title>
+    <item_desc>Insert Advert Image URL</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>22</id>
+    <item_id>advert3_title</item_id>
+    <item_title>Advert 3 - Title</item_title>
+    <item_desc>Insert Advert Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>23</id>
+    <item_id>advert3_title_two</item_id>
+    <item_title>Advert 3 - Title Two</item_title>
+    <item_desc>Insert Advert Title Two</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>24</id>
+    <item_id>advert3_des</item_id>
+    <item_title>Advert 3 - Description</item_title>
+    <item_desc>Insert Advert Description</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>4</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>25</id>
+    <item_id>advert3_link</item_id>
+    <item_title>Advert 3 - Link</item_title>
+    <item_desc>Insert Advert Link</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>26</id>
+    <item_id>advert3_link_name</item_id>
+    <item_title>Advert 3 - Button Name</item_title>
+    <item_desc>Inser Advert Button Name</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>27</id>
+    <item_id>tabmenu</item_id>
+    <item_title>Tab Menu</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>28</id>
+    <item_id>slider_tab_menu_categorie</item_id>
+    <item_title>Tab Menu Categories</item_title>
+    <item_desc>Select Tab Menu Categories on Home Page</item_desc>
+    <item_type>category</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>29</id>
+    <item_id>social</item_id>
+    <item_title>Social Menu</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>30</id>
+    <item_id>social_title</item_id>
+    <item_title>Social Title</item_title>
+    <item_desc>Insert Social Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>31</id>
+    <item_id>social_subtitle</item_id>
+    <item_title>Social Sub Title</item_title>
+    <item_desc>Insert Social Sub Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>32</id>
+    <item_id>social_list</item_id>
+    <item_title>Social List</item_title>
+    <item_desc>Inser social &amp;lt; li &amp;gt; Menu</item_desc>
+    <item_type>textarea</item_type>
+    <item_options>5</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>33</id>
+    <item_id>blogpage</item_id>
+    <item_title>Blog &amp;amp; Single Page</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>34</id>
+    <item_id>sub_title</item_id>
+    <item_title>Subscribe Title</item_title>
+    <item_desc>Insert Subscribe Title (View Blog List Page)</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>35</id>
+    <item_id>sub_link</item_id>
+    <item_title>Subscribe Link</item_title>
+    <item_desc>Your Feedburner RSS Link</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>36</id>
+    <item_id>blog_categories</item_id>
+    <item_title>Blog Categorie</item_title>
+    <item_desc>Select List Blog Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>37</id>
+    <item_id>blog_show</item_id>
+    <item_title>Blog Display Show</item_title>
+    <item_desc>How many listed display blog show?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>38</id>
+    <item_id>blog_buttonname</item_id>
+    <item_title>Blog Read More Button Name</item_title>
+    <item_desc>Insert Button Name: Sample: More</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>39</id>
+    <item_id>single_title</item_id>
+    <item_title>Single Page Title</item_title>
+    <item_desc>Insert Single Page Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>40</id>
+    <item_id>single_subtitle</item_id>
+    <item_title>Single Page Sub Title</item_title>
+    <item_desc>Insert Single Page Sub Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>41</id>
+    <item_id>single_postbutton</item_id>
+    <item_title>Attachment File Button Name</item_title>
+    <item_desc>Insert Button Name</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>42</id>
+    <item_id>appshop</item_id>
+    <item_title>APP Shop</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>43</id>
+    <item_id>app_categories</item_id>
+    <item_title>App Shop Slide Categories</item_title>
+    <item_desc>Select Slide Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>44</id>
+    <item_id>app_show</item_id>
+    <item_title>App Shop Slide Display Show</item_title>
+    <item_desc>How many display slide post?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>45</id>
+    <item_id>app_title</item_id>
+    <item_title>App Shop Title</item_title>
+    <item_desc>Insert Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>46</id>
+    <item_id>app_subtitle</item_id>
+    <item_title>App Shop Sub Title</item_title>
+    <item_desc>Insert Subtitle</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>47</id>
+    <item_id>app_shopcategories</item_id>
+    <item_title>App Shop Categories</item_title>
+    <item_desc>Select APP Shop Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>48</id>
+    <item_id>app_shopshow</item_id>
+    <item_title>App Shop Display Show</item_title>
+    <item_desc>How many display app shop post?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>49</id>
+    <item_id>pictureportfolio</item_id>
+    <item_title>Picture Portfolio</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>50</id>
+    <item_id>picture_slide_categories</item_id>
+    <item_title>Picture Portfolio Slide Categories</item_title>
+    <item_desc>Select Slide Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>51</id>
+    <item_id>picture_slide_show</item_id>
+    <item_title>Picture Portfolio Slide Display Show</item_title>
+    <item_desc>How many display slide show?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>52</id>
+    <item_id>picture_portfoliotitle</item_id>
+    <item_title>Picture Portfolio Title</item_title>
+    <item_desc>Insert Portfolio Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>53</id>
+    <item_id>picture_portfoliosubtitle</item_id>
+    <item_title>Picture Portfolio Sub Title</item_title>
+    <item_desc>Insert Portfolio Sub Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>54</id>
+    <item_id>picture_portfoliocategories</item_id>
+    <item_title>Picture Portfolio Categories</item_title>
+    <item_desc>Select Portfolio Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>55</id>
+    <item_id>picture_portfolioshow</item_id>
+    <item_title>Picture Portfolio Display Show</item_title>
+    <item_desc>How many display portfolio post?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>56</id>
+    <item_id>videoportfolio</item_id>
+    <item_title>Video Portfolio</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>57</id>
+    <item_id>video_slide_categories</item_id>
+    <item_title>Video Portfolio Slide Categories</item_title>
+    <item_desc>Select Portfolio Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>58</id>
+    <item_id>video_slide_show</item_id>
+    <item_title>Video Portfolio Slide Display Show</item_title>
+    <item_desc>How many display portfolio post?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>59</id>
+    <item_id>video_portfoliotitle</item_id>
+    <item_title>Video Portfolio Title</item_title>
+    <item_desc>Insert Portfolio Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>60</id>
+    <item_id>video_portfoliosubtitle</item_id>
+    <item_title>Video Portfolio Sub Title</item_title>
+    <item_desc>Insert Portfolio Sub Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>61</id>
+    <item_id>video_portfoliocategories</item_id>
+    <item_title>Video Portfolio Categories</item_title>
+    <item_desc>Select Portfolio Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>62</id>
+    <item_id>video_portfolioshow</item_id>
+    <item_title>Video Portfolio Display Show</item_title>
+    <item_desc>How many display portfolio show?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>63</id>
+    <item_id>musicportfolio</item_id>
+    <item_title>Music Portfolio</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>64</id>
+    <item_id>music_slide_categories</item_id>
+    <item_title>Music Portfolio Slide Categories</item_title>
+    <item_desc>Select Portfolio Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>65</id>
+    <item_id>music_slide_show</item_id>
+    <item_title>Music Portfolio Slide Display Show</item_title>
+    <item_desc>How many display portfolio post?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>66</id>
+    <item_id>music_portfoliotitle</item_id>
+    <item_title>Music Portfolio Title</item_title>
+    <item_desc>Insert Portfolio Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>67</id>
+    <item_id>music_portfoliosubtitle</item_id>
+    <item_title>Music Portfolio Sub Title</item_title>
+    <item_desc>Insert Portfolio Sub Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>68</id>
+    <item_id>music_portfoliocategories</item_id>
+    <item_title>Music Portfolio Categories</item_title>
+    <item_desc>Select Portfolio Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>69</id>
+    <item_id>music_portfolioshow</item_id>
+    <item_title>Music Portfolio Display Show</item_title>
+    <item_desc>How many display portfolio show?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>70</id>
+    <item_id>webportfolio</item_id>
+    <item_title>Web Portfolio</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>71</id>
+    <item_id>web_slide_categories</item_id>
+    <item_title>Web Portfolio Slide Categories</item_title>
+    <item_desc>Select Portfolio Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>72</id>
+    <item_id>web_slide_show</item_id>
+    <item_title>Web Portfolio Slide Display Show</item_title>
+    <item_desc>How many display portfolio post?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>73</id>
+    <item_id>web_portfoliotitle</item_id>
+    <item_title>Web Portfolio Title</item_title>
+    <item_desc>Insert Portfolio Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>74</id>
+    <item_id>web_portfoliosubtitle</item_id>
+    <item_title>Web Portfolio Sub Title</item_title>
+    <item_desc>Insert Portfolio Sub Title</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>75</id>
+    <item_id>web_portfoliocategories</item_id>
+    <item_title>Web Portfolio Categories</item_title>
+    <item_desc>Select Portfolio Categories</item_desc>
+    <item_type>categories</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>76</id>
+    <item_id>web_portfolioshow</item_id>
+    <item_title>Web Portfolio Display Show</item_title>
+    <item_desc>How many display portfolio show?</item_desc>
+    <item_type>input</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>77</id>
+    <item_id>displaysho</item_id>
+    <item_title>Display &amp;amp; Show</item_title>
+    <item_desc></item_desc>
+    <item_type>heading</item_type>
+    <item_options></item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>78</id>
+    <item_id>disable_advert</item_id>
+    <item_title>Home Page Advert Area Display?</item_title>
+    <item_desc>&#x130;f you check &amp;#039;No&amp;#039;, Not display on home page.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>No</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>79</id>
+    <item_id>disable_tabmenu</item_id>
+    <item_title>Home Page Tab Menu Display?</item_title>
+    <item_desc>&#x130;f you check &amp;#039;No&amp;#039;, Not display on home page.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>No</item_options>
+    <item_sort>0</item_sort>
+  </row>
+  <row>
+    <id>80</id>
+    <item_id>disable_footer</item_id>
+    <item_title>Footer Display?</item_title>
+    <item_desc>&#x130;f you check &amp;#039;No&amp;#039;, Not display on home page.</item_desc>
+    <item_type>checkbox</item_type>
+    <item_options>No</item_options>
+    <item_sort>0</item_sort>
+  </row>
+</wp_smokes>

@@ -1,0 +1,79 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: DP Thumbnail\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-21 15:12+0800\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Cloud Stone <cloud@dedepress.com>\n"
+"Language-Team: DeDePress <dedepress@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../.\n"
+
+#: .././dp-twitter-widget.php:25
+msgid "Display your tweets from Twitter with YQL support."
+msgstr ""
+
+#: .././dp-twitter-widget.php:26
+#: .././widget-twitter.php:26
+msgid "DP Twitter"
+msgstr ""
+
+#: .././dp-twitter-widget.php:140
+#: .././widget-twitter.php:140
+#, php-format
+msgid "Error: Please make sure the Twitter account is <a href=\"%s\">public</a>."
+msgstr ""
+
+#: .././dp-twitter-widget.php:177
+#: .././widget-twitter.php:177
+msgid "Twitter Updates"
+msgstr ""
+
+#: .././dp-twitter-widget.php:190
+#: .././widget-twitter.php:190
+msgid "Title:"
+msgstr ""
+
+#: .././dp-twitter-widget.php:194
+#: .././widget-twitter.php:194
+msgid "Username:"
+msgstr ""
+
+#: .././dp-twitter-widget.php:198
+#: .././widget-twitter.php:198
+msgid "Number:"
+msgstr ""
+
+#: .././dp-twitter-widget.php:207
+#: .././widget-twitter.php:207
+msgid "Exclude replies?"
+msgstr ""
+
+#: .././dp-twitter-widget.php:211
+#: .././widget-twitter.php:211
+msgid "Include Retweets?"
+msgstr ""
+
+#: .././dp-twitter-widget.php:215
+#: .././widget-twitter.php:215
+msgid "Add nofolow to link?"
+msgstr ""
+
+#: .././dp-twitter-widget.php:219
+#: .././widget-twitter.php:219
+msgid "Open links in new window?"
+msgstr ""
+
+#: .././dp-twitter-widget.php:223
+#: .././widget-twitter.php:223
+msgid "Use YQL?"
+msgstr ""
+
+#: .././widget-twitter.php:25
+msgid "Display your tweets from Twitter"
+msgstr ""
+

@@ -1,0 +1,657 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dynamic Widgets NL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-29 23:19+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jacco\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+#: ../dynwid_class_php4.php:58
+#: ../dynwid_class.php:52
+msgid "Role"
+msgstr "Rol"
+
+#: ../dynwid_class_php4.php:59
+#: ../dynwid_class.php:53
+msgid "Date"
+msgstr "Datum"
+
+#: ../dynwid_class_php4.php:60
+#: ../dynwid_class.php:54
+msgid "Browser"
+msgstr "Browser"
+
+#: ../dynwid_class_php4.php:61
+#: ../dynwid_class.php:55
+msgid "Language"
+msgstr "Taal"
+
+#: ../dynwid_class_php4.php:62
+#: ../dynwid_class.php:56
+#: ../mods/frontpage_module.php:20
+msgid "Front Page"
+msgstr "Startpagina"
+
+#: ../dynwid_class_php4.php:63
+#: ../dynwid_class.php:57
+#: ../mods/single_module.php:80
+msgid "Single Posts"
+msgstr "Berichten"
+
+#: ../dynwid_class_php4.php:64
+#: ../dynwid_class.php:58
+#: ../mods/attachment_module.php:20
+msgid "Attachments"
+msgstr "Bijlagen"
+
+#: ../dynwid_class_php4.php:65
+#: ../dynwid_class.php:59
+msgid "Pages"
+msgstr "Pagina's"
+
+#: ../dynwid_class_php4.php:66
+#: ../dynwid_class.php:60
+msgid "Author Pages"
+msgstr "Auteur pagina's"
+
+#: ../dynwid_class_php4.php:67
+#: ../dynwid_class.php:61
+#: ../mods/category_module.php:33
+msgid "Category Pages"
+msgstr "Categorie pagina's"
+
+#: ../dynwid_class_php4.php:68
+#: ../dynwid_class.php:62
+#: ../mods/archive_module.php:20
+msgid "Archive Pages"
+msgstr "Archief pagina's"
+
+#: ../dynwid_class_php4.php:69
+#: ../dynwid_class.php:63
+#: ../mods/error_module.php:20
+msgid "Error Page"
+msgstr "Foutmeldings pagina"
+
+#: ../dynwid_class_php4.php:70
+#: ../dynwid_class.php:64
+msgid "Search page"
+msgstr "Zoek pagina"
+
+#: ../dynwid_class_php4.php:71
+#: ../dynwid_class.php:65
+msgid "WPSC Category"
+msgstr "WPSC Categorie"
+
+#: ../dynwid_admin.php:18
+#: ../dynamic-widgets.php:125
+#: ../dynamic-widgets.php:148
+#: ../dynamic-widgets.php:247
+#: ../dynamic-widgets.php:647
+msgid "Dynamic Widgets"
+msgstr "Dynamische Widgets"
+
+#: ../dynwid_admin.php:25
+msgid "<b>WARNING</b> STRICT sql mode in effect. Dynamic Widgets might not work correctly. Please disable STRICT sql mode."
+msgstr "<b>LET OP</b> STRICT sql mode gedecteerd. Dynamische Widgets werkt mogelijk niet correct. U wordt aangeraden STRICT sql mode uit te schakelen."
+
+#: ../dynwid_admin.php:45
+msgid "Oops! Something went terrible wrong. Please reinstall Dynamic Widgets."
+msgstr "Oeps! Er is een onhelstelbare fout opgetreden. U wordt aangeraden om Dynamische Widgets opnieuw te installeren."
+
+#: ../dynwid_admin.php:53
+#: ../dynwid_admin_overview.php:28
+msgid "OLD"
+msgstr "OUD"
+
+#: ../dynwid_admin.php:53
+#: ../dynwid_admin_overview.php:28
+msgid "FILTER"
+msgstr "FILTER"
+
+#: ../dynamic-widgets.php:133
+msgid "Widgets are always displayed by default"
+msgstr "Widgets worden standaard altijd getoond"
+
+#: ../dynamic-widgets.php:133
+msgid "The '<em>Yes</em>' selection"
+msgstr "De '<em>Ja</em>' selectie"
+
+#: ../dynamic-widgets.php:134
+msgid "Click on the"
+msgstr "Klik op de"
+
+#: ../dynamic-widgets.php:134
+msgid "next to the options for more info"
+msgstr "bij de opties voor meer informatie"
+
+#: ../dynamic-widgets.php:135
+msgid "The"
+msgstr "De"
+
+#: ../dynamic-widgets.php:135
+msgid "next to a section means it has options set."
+msgstr "houdt in dat er opties gekozen zijn."
+
+#: ../dynamic-widgets.php:137
+#: ../dynamic-widgets.php:138
+#: ../dynamic-widgets.php:141
+#: ../dynamic-widgets.php:649
+#: ../dynwid_admin_overview.php:73
+msgid "Static"
+msgstr "Statisch"
+
+#: ../dynamic-widgets.php:137
+#: ../dynamic-widgets.php:139
+#: ../dynamic-widgets.php:649
+#: ../dynwid_admin_overview.php:73
+msgid "Dynamic"
+msgstr "Dyamisch"
+
+#: ../dynamic-widgets.php:138
+msgid "When a widget is"
+msgstr "Wanneer een widget"
+
+#: ../dynamic-widgets.php:138
+msgid "the widget uses the WordPress default. In other words, it's shown everywhere"
+msgstr "de widget staat op de standaard instelling. Met andere woorden, deze wordt overal getoond"
+
+#: ../dynamic-widgets.php:139
+msgid "A widget is"
+msgstr "Een widget is"
+
+#: ../dynamic-widgets.php:139
+msgid "when there are options set, i.e. not showing on the front page."
+msgstr "als er opties gewijzigd zijn, bijvoorbeeld niet tonen op de startpagina."
+
+#: ../dynamic-widgets.php:140
+#: ../dynwid_admin_overview.php:67
+msgid "Reset"
+msgstr "Herstellen"
+
+#: ../dynamic-widgets.php:141
+msgid "Reset makes the widget return to"
+msgstr "Herstellen zorgt ervoor dat de widget teruggezet wordt naar"
+
+#: ../dynamic-widgets.php:200
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../dynamic-widgets.php:214
+msgid "Apply exception rule to widgets:"
+msgstr "Maak uitzonderingsregel voor widget:"
+
+#: ../dynamic-widgets.php:230
+msgid "Off"
+msgstr "Uit"
+
+#: ../dynamic-widgets.php:230
+msgid "On"
+msgstr "Aan"
+
+#: ../dynamic-widgets.php:231
+msgid " (Default: "
+msgstr "(Standaard"
+
+#: ../dynamic-widgets.php:328
+msgid "Dynamic Widgets Options saved"
+msgstr "Dynamische Widget opties bewaard"
+
+#: ../dynamic-widgets.php:328
+msgid "for"
+msgstr "voor"
+
+#: ../dynamic-widgets.php:648
+msgid "Edit Dynamic Widgets Options"
+msgstr "Wijzig Dynamische Widget opties"
+
+#: ../dynamic-widgets.php:673
+msgid "and"
+msgstr "en"
+
+#: ../dynamic-widgets.php:679
+msgid "Options set for"
+msgstr "Opties voor"
+
+#: ../dynamic-widgets.php:679
+msgid "Option set for"
+msgstr "Optie voor"
+
+#: ../dynwid_admin_edit.php:60
+msgid "Widget options saved."
+msgstr "Widget opties bewaard"
+
+#: ../dynwid_admin_edit.php:60
+#: ../dynwid_admin_edit.php:120
+msgid "Return"
+msgstr "Terug"
+
+#: ../dynwid_admin_edit.php:60
+msgid "to Dynamic Widgets overview"
+msgstr "naar Dynamische Widgets overzicht"
+
+#: ../dynwid_admin_edit.php:65
+msgid "Dynamic does not mean static hiding of a widget."
+msgstr "Dynamisch houdt niet in het statisch verbergen van een widget."
+
+#: ../dynwid_admin_edit.php:65
+msgid "Hint"
+msgstr "Hint"
+
+#: ../dynwid_admin_edit.php:65
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: ../dynwid_admin_edit.php:65
+msgid "the widget from the sidebar"
+msgstr "de widget in de sidebar"
+
+#: ../dynwid_admin_edit.php:69
+msgid "The From date can't be later than the To date."
+msgstr "The 'van' datum kan niet later zijn dan de 'tot' datum."
+
+#: ../dynwid_admin_edit.php:74
+msgid "Edit options for the widget"
+msgstr "Wijzig de opties voor de widget"
+
+#: ../dynwid_admin_edit.php:116
+msgid "Save"
+msgstr "Opslaan"
+
+#: ../dynwid_admin_overview.php:15
+msgid "Widget options have been reset to default."
+msgstr "De widget opties zijn hersteld naar standaard"
+
+#: ../dynwid_admin_overview.php:28
+msgid "Method set to"
+msgstr "Methode is nu"
+
+#: ../dynwid_admin_overview.php:36
+msgid "Inactive Widgets"
+msgstr "Inactieve Widgets"
+
+#: ../dynwid_admin_overview.php:59
+#: ../dynwid_admin_overview.php:62
+msgid "Edit this widget options"
+msgstr "Wijzig de widget opties voor"
+
+#: ../dynwid_admin_overview.php:62
+msgid "Edit"
+msgstr "Wijzig"
+
+#: ../dynwid_admin_overview.php:67
+msgid "Reset widget to Static"
+msgstr "Zet de widget terug naar statisch"
+
+#: ../dynwid_admin_overview.php:88
+msgid "Advanced"
+msgstr "Geavanceerd"
+
+#: ../dynwid_admin_overview.php:93
+msgid "wp_head() check:"
+msgstr "wp_head() controle:"
+
+#: ../dynwid_admin_overview.php:98
+msgid "wp_head() is NOT called (at the most obvious place)"
+msgstr "wp_head() is NIET gevonden (op de meest voor de hand liggende plaats)"
+
+#: ../dynwid_admin_overview.php:102
+msgid "wp_head() is called"
+msgstr "wp_head() is gevonden"
+
+#: ../dynwid_admin_overview.php:106
+msgid "Unable to determine if wp_head() is called"
+msgstr "Het is niet mogelijk om te bepalen of wp_head() gevonden kan worden"
+
+#: ../dynwid_admin_overview.php:118
+msgid "Use 'OLD' method"
+msgstr "Gebruik 'OUDE' methode"
+
+#: ../dynwid_admin_overview.php:124
+msgid "When upgrading to WPEC 3.8 the Dynamic Widgets rules for WPEC are lost. The WPEC dump gives you an overview of the rules before the update."
+msgstr "Wanneer u upgrade naar WPEC 3.8 dan zullen de Dynamische Widget regels voor WPEC verloren gaan. De WPEC dump geeft u een overzicht van de regels voor de update."
+
+#: ../dynwid_admin_overview.php:125
+msgid "WARNING"
+msgstr "WAARSCHUWING"
+
+#: ../dynwid_admin_overview.php:125
+msgid "This only works correct when you did not add or change anything in the Dynamic Widgets rules."
+msgstr "Dit werkt alleen correct als u geen Dyamische Widget regels toegevoegd of verwijderd heeft."
+
+#: ../dynwid_admin_overview.php:130
+msgid "Create WPEC dump"
+msgstr "Maak WPEC dump"
+
+#: ../dynwid_admin_overview.php:137
+msgid "For debugging purposes it is possible you're asked to create a dump. Click the 'Create dump' button and save the text file."
+msgstr "Voor foutopsporing is het mogelijk dat u gevraagd wordt om een dump te maken. Klik de 'Dump maken' knop en sla het tekst bestand op."
+
+#: ../dynwid_admin_overview.php:142
+msgid "Create dump"
+msgstr "Dump maken"
+
+#: ../dynwid_admin_overview.php:149
+msgid "When you deceide not to use this plugin anymore (sorry to hear that!). You can cleanup all settings and data related to this plugin by clicking on the 'Uninstall' button. This process is irreversible! After the cleanup the plugin is deactivated automaticly."
+msgstr "Wanneer u besluit om deze plugin niet meer te gebruiken (erg jammer!), kunt u alle instellingen en andere data van deze plugin verwijderen door op de 'Deinstalleer' knop te drukken. Dit proces is onomkeerbaar! Na het verwijderen zal de plugin automatisch uitgeschakeld worden."
+
+#: ../dynwid_admin_overview.php:154
+msgid "Uninstall"
+msgstr "Deinstalleer"
+
+#: ../mods/search_module.php:21
+msgid "Search Page"
+msgstr "Zoek pagina"
+
+#: ../mods/search_module.php:23
+msgid "Show widget on the search page?"
+msgstr "Toon de widget op de zoekpagina?"
+
+#: ../mods/search_module.php:25
+#: ../mods/category_module.php:37
+#: ../mods/single_module.php:91
+#: ../mods/attachment_module.php:24
+#: ../mods/error_module.php:24
+#: ../mods/frontpage_module.php:31
+#: ../mods/archive_module.php:29
+msgid "Yes"
+msgstr "Ja"
+
+#: ../mods/search_module.php:26
+#: ../mods/category_module.php:38
+#: ../mods/single_module.php:92
+#: ../mods/attachment_module.php:25
+#: ../mods/error_module.php:25
+#: ../mods/frontpage_module.php:32
+#: ../mods/archive_module.php:30
+msgid "No"
+msgstr "Nee"
+
+#: ../mods/category_module.php:35
+msgid "Show widget default on category pages?"
+msgstr "Toon de widget standaard op de categorie pagina's?"
+
+#: ../mods/category_module.php:39
+msgid "Except the categories"
+msgstr "Behalve de categoriën"
+
+#: ../mods/single_module.php:75
+msgid "Posts: "
+msgstr "Posts:"
+
+#: ../mods/single_module.php:75
+msgid "Tags: "
+msgstr "Tags:"
+
+#: ../mods/single_module.php:82
+msgid "Show widget default on single posts?"
+msgstr "De widget bij de berichten tonen?"
+
+#: ../mods/single_module.php:82
+#: ../mods/single_module.php:96
+#: ../mods/archive_module.php:22
+msgid "Click to toggle info"
+msgstr "Klik om info weer te geven of te verbergen"
+
+#: ../mods/single_module.php:86
+msgid ""
+"When you use an author <b>AND</b> a category exception, both rules in the condition must be met. Otherwise the exception rule won't be applied.\n"
+"  \t\t\t\t\tIf you want to use the rules in a logical OR condition. Add the same widget again and apply the other rule to that.\n"
+"  \t\t\t\t\t"
+msgstr ""
+"Wanneer u een auteur <b>EN</b> een categorie uitzondering gebruikt, worden beide regels gecontroleerd.\n"
+"  \t\t\t\t\tAls u de regels in een logische OR wilt gebruiken kunt u de widget opnieuw toevoegen en daarop dan de andere regel toepassen.\n"
+"  \t\t\t\t\t"
+
+#: ../mods/single_module.php:95
+msgid "Make exception rule available to individual posts and tags."
+msgstr "Maak de uitzonderings regel beschikbaar voor individuele berichten en tags"
+
+#: ../mods/single_module.php:99
+msgid ""
+"When you enable this option, you have the ability to apply the exception rule for <em>Single Posts</em> to tags and individual posts.\n"
+"\t\t\t\t\t\tYou can set the exception rule for tags in the single Edit Tag Panel (go to <a href=\"edit-tags.php?taxonomy=post_tag\">Post Tags</a>,\n"
+"\t\t\t\t\t\tclick a tag), For individual posts in the <a href=\"post-new.php\">New</a> or <a href=\"edit.php\">Edit</a> Posts panel.\n"
+"\t\t\t\t\t\tException rules for tags and individual posts in any combination work independantly, but will always be counted as one exception.<br />\n"
+"  \t\t\t\t\tPlease note when exception rules are set for Author and/or Category, these will be removed.\n"
+"  \t\t\t\t"
+msgstr ""
+"Wanneer u deze optie aan zet, heeft u de gelegenheid om uitzonderings regels te gebruiken in individuele posts en tags.\n"
+"\t\t\t\t\t\tU kunt de uitzonderingsregel vinden in het wijzigen Tag Paneel (ga naar <a href=\"edit-tags.php?taxonomy=post_tag\">Post Tags</a>,\n"
+"\t\t\t\t\t\tklik op een tag), Voor individuele posts in het <a href=\"post-new.php\">Nieuw</a> of <a href=\"edit.php\">Wijzig</a> Posts paneel.\n"
+"\t\t\t\t\t\tUitzonderings regels voor tags en individuele posts werken onafhankelijk van elkaar, maar worden altijd geteld als een enkele uitzondering.<br />\n"
+"  \t\t\t\t\tLet er op dat uitzonderings regels voor auteur en categorie worden verwijderd.\n"
+"  \t\t\t\t"
+
+#: ../mods/single_module.php:116
+msgid "Except the posts by author"
+msgstr "Behalve de berichten van"
+
+#: ../mods/single_module.php:127
+msgid "Except the posts in category"
+msgstr "Behalve de berichten in de categorie"
+
+#: ../mods/attachment_module.php:22
+msgid "Show widget on attachment pages"
+msgstr "Toon de widget op bijlage pagina's"
+
+#: ../mods/error_module.php:22
+msgid "Show widget on the error page?"
+msgstr "Toon de widget op de foutmeldings pagina?"
+
+#: ../mods/frontpage_module.php:22
+msgid "Show widget on the front page?"
+msgstr "De widget op de startpagina tonen?"
+
+#: ../mods/frontpage_module.php:26
+msgid ""
+"This option only applies when your front page is set to display your latest posts (See Settings &gt; Reading).<br />\n"
+"\t\t\t\t\t\tWhen a static page is set, you can use the options for the static pages below.\n"
+"\t\t\t\t\t"
+msgstr ""
+"Deze optie werkt alleen als de hoofdpagina de laatste posts toont (Zie Instellingen &gt; Lezen).<br />\n"
+"\t\t\t\t\t\tWanneer deze optie op statische pagina staat, kunt u gebruik maken van de onderstaande pagina opties.\n"
+"\t\t\t\t\t"
+
+#: ../mods/archive_module.php:22
+msgid "Show widget on archive pages"
+msgstr "Toon de widget op archief pagina's"
+
+#: ../mods/archive_module.php:26
+msgid "This option does not include Author and Category Pages."
+msgstr "Deze optie bevat niet auteurs en categorie pagina's"
+
+#: ../mods/pages_module.php:42
+#: ../mods/custompost_module.php:45
+msgid "All childs"
+msgstr "Alle kinderen"
+
+#: ../mods/pages_module.php:92
+#: ../mods/pages_module.php:95
+msgid "Front page"
+msgstr "Startpagina"
+
+#: ../mods/pages_module.php:92
+#: ../mods/pages_module.php:97
+msgid "Posts page"
+msgstr "Posts pagina"
+
+#: ../mods/pages_module.php:107
+msgid "Show widget default on static pages?"
+msgstr "Toon de widget op pagina's?"
+
+#: ../mods/pages_module.php:112
+msgid ""
+"Checking the \"All childs\" option, makes the exception rule apply\n"
+"\t\t\t\tto the parent and all items under it in all levels. Also future items\n"
+"\t\t\t\tunder the parent. It's not possible to apply an exception rule to\n"
+"\t\t\t\t\"All childs\" without the parent."
+msgstr "Door gebruik te maken van de \"Alle kinderen\" optie, wordt de uitzonderingsregel toegepast op de ouder en alle daaronder liggende item in alle levels. Ook toekomstige items onder de ouder. Het is niet mogelijk om de uitzonderingsregel toe te passen zonder de ouder."
+
+#: ../mods/pages_module.php:122
+msgid "Except the page(s)"
+msgstr "Behalve de pagina('s)"
+
+#: ../mods/author_module.php:35
+msgid "Show widget default on author pages?"
+msgstr "Toon de widget op auteurs pagina's?"
+
+#: ../mods/author_module.php:39
+msgid "Except the author(s)"
+msgstr "Behalve van"
+
+#: ../mods/bp_module.php:51
+msgid "BuddyPress"
+msgstr "BuddyPress"
+
+#: ../mods/bp_module.php:53
+msgid "Show widget default on BuddyPress pages?"
+msgstr "Toon de widget op BuddyPress pagina's?"
+
+#: ../mods/bp_module.php:57
+msgid "Except on the compontents pages"
+msgstr "Behalve op de componenten pagina's"
+
+#: ../mods/bp_module.php:91
+msgid "BuddyPress Groups"
+msgstr "BuddyPress Groepen"
+
+#: ../mods/bp_module.php:93
+msgid "Show widget default on BuddyPress Group pages?"
+msgstr "Toon de widget op BuddyPress Groep pagina's?"
+
+#: ../mods/bp_module.php:97
+msgid "Except in the groups"
+msgstr "Behalve in de groepen"
+
+#: ../mods/role_module.php:10
+msgid "Anonymous"
+msgstr "Anoniem"
+
+#: ../mods/role_module.php:41
+msgid "Show widget to everybody?"
+msgstr "Toon de widget aan iedereen?"
+
+#: ../mods/role_module.php:45
+msgid ""
+"Setting options by role is very powerfull. It can override all other options!<br />\n"
+"\t\t\t\t\t\tUsers who are not logged in, get the <em>Anonymous</em> role."
+msgstr ""
+"De rol opties zijn zeer bijzonder. Ze kunnen alle andere opties overstijgen!<br />\n"
+"\t\t\t\t\t\tGebruikers die niet ingelogd zijn, krijgen de <em>anonieme</em> rol."
+
+#: ../mods/role_module.php:50
+msgid "only to"
+msgstr "alleen aan"
+
+#: ../mods/useragent_module.php:10
+msgid "(and other Gecko based)"
+msgstr "(en andere op Gecko gebaseerd)"
+
+#: ../mods/useragent_module.php:16
+msgid "Other / Unknown / Not detected"
+msgstr "Andere / Onbekend / Niet gedetecteerd"
+
+#: ../mods/useragent_module.php:43
+msgid "Show widget with all browsers?"
+msgstr "De widget tonen met alle browsers?"
+
+#: ../mods/useragent_module.php:47
+msgid "Browser detection is never 100% accurate."
+msgstr "Browser detectie is nooit 100% accuraat"
+
+#: ../mods/useragent_module.php:52
+msgid "Except the browser(s)"
+msgstr "Behalve de browser(s)"
+
+#: ../mods/custompost_module.php:107
+msgid "Custom Post Type"
+msgstr "Custom Post Type"
+
+#: ../mods/custompost_module.php:109
+msgid "Show widget on"
+msgstr "Toon de widget op"
+
+#: ../mods/custompost_module.php:124
+#: ../mods/custompost_module.php:167
+msgid "Except for"
+msgstr "Behalve voor"
+
+#: ../mods/custompost_module.php:159
+msgid "Custom Post Type Archives"
+msgstr "Custom Post Type Archief"
+
+#: ../mods/custompost_module.php:161
+msgid "Show widget on Custom Post Type Archives"
+msgstr "Toon de widget op de Custom Post Type archief pagina?"
+
+#: ../mods/date_module.php:31
+msgid "Show widget always?"
+msgstr "Altijd de widget tonen?"
+
+#: ../mods/date_module.php:35
+msgid "Next to the above role option, the date option is also very powerfull. You've been warned!"
+msgstr "Net zoals de bovenstaande opties, is de datum opties zeer bijzonder. U bent gewaarschuwd!"
+
+#: ../mods/date_module.php:36
+msgid "Enter dates in the YYYY-MM-DD format. You can also use the calender by clicking on the"
+msgstr "Voer datum in volgens hets JJJJ-MM-DD formaat. U kunt ook de kalander gebruiken door te klikken op"
+
+#: ../mods/date_module.php:37
+msgid ""
+"Date ranges can be made by entering a From AND a To date<br />\n"
+"  \t\t\t\t\tWhen you want the widget to be displayed from a specific date, only fill in the From date<br />\n"
+"  \t\t\t\t\tWhen you want the widget to stop displaying on a specific date, only fill in the To date.\n"
+"  \t\t\t\t"
+msgstr ""
+"Datum periodes kunnen worden gemaakt door het invoeren van een 'van' en een 'tot' datum<br />\n"
+"  \t\t\t\t\tWanneer u de widget vanaf een bepaalde datum wilt tonen, vul dan alleen de 'van' datum in<br />\n"
+"  \t\t\t\t\tWanneer u de widget vanaf een bepaalde datum niet meer wilt tonen, vul dan alleen de 'tot' datum in.\n"
+"  \t\t\t\t"
+
+#: ../mods/date_module.php:44
+msgid "only"
+msgstr "alleen"
+
+#: ../mods/date_module.php:48
+msgid "From"
+msgstr "Van"
+
+#: ../mods/date_module.php:52
+msgid "To"
+msgstr "Tot"
+
+#: ../mods/wpec_module.php:39
+msgid "Show widget default on WPSC categories?"
+msgstr "Toon de widget standaard in de WPSC categoriën?"
+
+#: ../mods/wpml_module.php:37
+msgid "Language (WPML)"
+msgstr "Taal (WPML)"
+
+#: ../mods/wpml_module.php:39
+msgid "Show widget default on all languages?"
+msgstr "Toon de widget voor alle talen?"
+
+#: ../mods/wpml_module.php:43
+msgid "Using this option can override all other options."
+msgstr "Door gebruik te maken van deze opties kan deze alle andere opties overstijgen."
+
+#: ../mods/wpml_module.php:48
+msgid "Except the languages"
+msgstr "Behalve de talen"
+
+#~ msgid "Dynamic Widgets: "
+#~ msgstr "Dynamische Widgets: "
+#~ msgid "Widget"
+#~ msgstr "Widget"
+#~ msgid "This widget is"
+#~ msgstr "Deze widget is"
+#~ msgid "selection"
+#~ msgstr "selectie"
+

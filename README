@@ -1,0 +1,7 @@
+IMPORTANT
+---------------------
+You must purchase the SMOKE theme from themeforest.net to use it for anything but testing.
+
+INSTALLATION
+---------------------
+In wp-config.php, you will need to setup both the database information and put in new stuff for anything with SALT or KEY in it's name. Make sure to get a steam api key. Contact Parable if you need help getting running. 

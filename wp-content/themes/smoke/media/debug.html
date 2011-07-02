@@ -1,0 +1,101 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<title>NonverBlaster:hover - Javascript Communication</title>
+	<script src="../demo/js/swfobject.js" type="text/javascript" charset="utf-8"></script>
+	<script src="../demo/js/nonverblaster.js" type="text/javascript" charset="utf-8"></script>
+	<link rel="stylesheet" href="../demo/nonverblaster.css" type="text/css" media="screen" title="no title" charset="utf-8" />
+</head>
+
+<body>
+	<div id="all">
+		<div id="header">
+			<a href="index.html"><h1 id="mainheadline">NonverBlaster<em>:hover</em></h1></a>
+		</div>
+		<h2>Example: Javascript Communication</h2>
+		<div id="videoPlayer">
+			To watch this video, you need the latest <a href="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" target="_blank">Flash-Player</a> and active javascript in your browser.
+		</div>
+		<script type="text/javascript">
+			var flashvars = {};
+				flashvars.mediaURL = "../demo/media/nice-flowers-hd.mov";
+				flashvars.teaserURL = "../demo/media/nice-flowers.jpg";
+				flashvars.allowSmoothing = "true";
+				flashvars.autoPlay = "false";
+				flashvars.buffer = "6";
+				flashvars.showTimecode = "true";
+				flashvars.loop = "false";
+				flashvars.controlColor = "0x3fd2a3";
+				flashvars.controlBackColor = "0x000000";
+				flashvars.scaleIfFullScreen = "true";
+				flashvars.showScalingButton = "true";
+				flashvars.defaultVolume = "100";
+				flashvars.crop = "false";
+			
+			var params = {};
+				params.menu = "false";
+				params.allowFullScreen = "true";
+				params.allowScriptAccess = "always"
+			
+			var attributes = {};
+				attributes.id = "nonverblaster";
+				attributes.bgcolor = "#000000"
+		
+			swfobject.embedSWF("NonverBlaster.swf", "videoPlayer", "500", "281", "9", "js/expressinstall.swf", flashvars, params, attributes);
+		
+			// Uncomment this function if you want to listen for the end of playback
+			function computeEnd(){
+				alert("NonverBlaster:hover says:\n\nEnd reached!");
+			}
+			function computeStart(){
+				alert("NonverBlaster:hover says:\n\nPlayback started!");
+			}
+			// This function is called by nonverblaster, if the function "getPlayingProgress" is sent to it using javascript
+			function recievePlayingProgress(_progress){
+				alert(_progress);
+			}
+			// This function is called by nonverblaster, if the function "getLoadingProgress" is sent to it using javascript
+			function recieveLoadingProgress(_progress){
+				alert(_progress);
+			}
+			registerForJavaScriptCommunication("nonverblaster");
+		</script>
+		<div id="jsNavi">
+			<h2>Javascript Communication</h2>
+			<p>
+				You can use the following methods to communicate with the player via javascript:
+			</p>
+			<ul>
+				<li><a href="javascript:sendToNonverBlaster('play')">Play</a></li>
+				<li><a href="javascript:sendToNonverBlaster('pause')">Pause</a></li>
+				<li><a href="javascript:sendToNonverBlaster('volume:0')">Set Volume to 0</a></li>
+				<li><a href="javascript:sendToNonverBlaster('volume:100')">Set Volume to 100</a></li>
+				<li><a href="javascript:sendToNonverBlaster('toggleSound')">Toggle Sound</a></li>
+				<li><a href="javascript:sendToNonverBlaster('switchColor:0xff0000')">Switch Color to RED</a></li>
+				<li><a href="javascript:sendToNonverBlaster('resetAll')">Reset Player</a></li>
+				<li><a href="javascript:sendToNonverBlaster('seekToSecond:10')">Seek to Second 10</a></li>
+				<li><a href="javascript:sendToNonverBlaster('seekToPercent:70')">Seek to 70%</a></li>
+				<li>
+					The following function is sent to nonverblaster, which then calls the javascript function "recievePlayingProgress(value)":
+					<a href="javascript:sendToNonverBlaster('getPlayingProgress')">Get Playing Progress</a>
+				</li>
+				<li>
+					The following function is sent to nonverblaster, which then calls the javascript function "recieveLoadingProgress(value)":
+					<a href="javascript:sendToNonverBlaster('getLoadingProgress')">Get Loading Progress</a>
+				</li>
+			</ul>
+		</div>
+		<p>
+			See the souce-code of this site if you want to know how the movie was embedded.
+		</p>
+		<h2>Important Note:</h2>
+		<p>
+			If you want to test this example offline on your computer, you have to go to the <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager04.html">Flash Player Security Settings</a> and give permission to the folder where these files are located on your machine.
+		</p>
+		<h2><a href="index.html">« Back to Overview</a></h2>
+	</div>
+</body>
+</html>

@@ -1,0 +1,1 @@
+﻿package nonverblaster {	public class Glo {		public static var bal:Object = new Object();	}}

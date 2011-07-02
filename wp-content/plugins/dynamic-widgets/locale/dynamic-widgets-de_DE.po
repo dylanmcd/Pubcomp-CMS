@@ -1,0 +1,653 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dynamic Widgets NL\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-01-05 19:15+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jacco <jacco@qurl.nl>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+
+#: ../dynwid_admin_edit.php:24
+msgid "Anonymous"
+msgstr "Anonym"
+
+#: ../dynwid_admin_edit.php:74
+msgid "(and other Gecko based)"
+msgstr "(und andere Gecko-basierte)"
+
+#: ../dynwid_admin_edit.php:80
+msgid "Other / Unknown / Not detected"
+msgstr ""
+
+#: ../dynwid_admin_edit.php:185
+msgid "Posts: "
+msgstr "Beiträge:"
+
+#: ../dynwid_admin_edit.php:185
+msgid "Tags: "
+msgstr "Schlagwörter:"
+
+#: ../dynwid_admin_edit.php:241
+#: ../dynwid_admin_edit.php:244
+#, fuzzy
+msgid "Front page"
+msgstr "Startseite"
+
+#: ../dynwid_admin_edit.php:241
+#: ../dynwid_admin_edit.php:246
+msgid "Posts page"
+msgstr "Artikelseite"
+
+#: ../dynwid_admin_edit.php:430
+msgid "Widget options saved."
+msgstr "Widget Optionen gespeichert."
+
+#: ../dynwid_admin_edit.php:430
+#: ../dynwid_admin_edit.php:969
+msgid "Return"
+msgstr "Zurück"
+
+#: ../dynwid_admin_edit.php:430
+msgid "to Dynamic Widgets overview"
+msgstr "zu den Dynamic Widgets Optionen"
+
+#: ../dynwid_admin_edit.php:435
+msgid "Dynamic does not mean static hiding of a widget."
+msgstr "Dynamisch houdt niet in het statisch verbergen van een widget."
+
+#: ../dynwid_admin_edit.php:435
+msgid "Hint"
+msgstr "Hinweis"
+
+#: ../dynwid_admin_edit.php:435
+msgid "Remove"
+msgstr "Entfernt"
+
+#: ../dynwid_admin_edit.php:435
+msgid "the widget from the sidebar"
+msgstr "das Widget aus der Sidebar"
+
+#: ../dynwid_admin_edit.php:439
+msgid "The From date can't be later than the To date."
+msgstr "Das Startdatum kann nicht später als das Enddatum sein."
+
+#: ../dynwid_admin_edit.php:444
+msgid "Edit options for the widget"
+msgstr "Option für das Widget bearbeiten"
+
+#: ../dynwid_admin_edit.php:455
+#: ../dynwid_class_php4.php:56
+#: ../dynwid_class.php:50
+msgid "Role"
+msgstr "Rolle"
+
+#: ../dynwid_admin_edit.php:457
+msgid "Show widget to everybody?"
+msgstr "Widget für jeden anzeigen?"
+
+#: ../dynwid_admin_edit.php:457
+#: ../dynwid_admin_edit.php:477
+#: ../dynwid_admin_edit.php:509
+#: ../dynwid_admin_edit.php:530
+#: ../dynwid_admin_edit.php:568
+#: ../dynwid_admin_edit.php:582
+#: ../dynwid_admin_edit.php:638
+#: ../dynwid_admin_edit.php:740
+msgid "Click to toggle info"
+msgstr "Klicken Sie um Info anzuzeigen"
+
+#: ../dynwid_admin_edit.php:461
+msgid ""
+"Setting options by role is very powerfull. It can override all other options!<br />\n"
+"\t\t\t\t\t\tUsers who are not logged in, get the <em>Anonymous</em> role."
+msgstr ""
+"Einstellungen pro Rolle werden bevorzugt behandelt. Sie können alle anderen Optionen überschreiben!<br />\n"
+"\t\t\t\t\t\tBenutzer die nicht angemeldet sind kommen in die <em>Anonym</em> Rolle."
+
+#: ../dynwid_admin_edit.php:465
+#: ../dynwid_admin_edit.php:489
+#: ../dynwid_admin_edit.php:516
+#: ../dynwid_admin_edit.php:537
+#: ../dynwid_admin_edit.php:560
+#: ../dynwid_admin_edit.php:577
+#: ../dynwid_admin_edit.php:631
+#: ../dynwid_admin_edit.php:651
+#: ../dynwid_admin_edit.php:713
+#: ../dynwid_admin_edit.php:727
+#: ../dynwid_admin_edit.php:747
+#: ../dynwid_admin_edit.php:757
+#: ../dynwid_admin_edit.php:766
+#: ../dynwid_admin_edit.php:883
+#: ../dynwid_admin_edit.php:925
+#: ../dynwid_admin_edit.php:948
+msgid "Yes"
+msgstr "Ja"
+
+#: ../dynwid_admin_edit.php:466
+#: ../dynwid_admin_edit.php:490
+#: ../dynwid_admin_edit.php:517
+#: ../dynwid_admin_edit.php:538
+#: ../dynwid_admin_edit.php:561
+#: ../dynwid_admin_edit.php:578
+#: ../dynwid_admin_edit.php:632
+#: ../dynwid_admin_edit.php:652
+#: ../dynwid_admin_edit.php:714
+#: ../dynwid_admin_edit.php:728
+#: ../dynwid_admin_edit.php:748
+#: ../dynwid_admin_edit.php:758
+#: ../dynwid_admin_edit.php:767
+#: ../dynwid_admin_edit.php:884
+#: ../dynwid_admin_edit.php:926
+#: ../dynwid_admin_edit.php:949
+msgid "No"
+msgstr "Nein"
+
+#: ../dynwid_admin_edit.php:466
+msgid "only to"
+msgstr "nur für"
+
+#: ../dynwid_admin_edit.php:475
+#: ../dynwid_class_php4.php:57
+#: ../dynwid_class.php:51
+msgid "Date"
+msgstr "Datum"
+
+#: ../dynwid_admin_edit.php:477
+msgid "Show widget always?"
+msgstr "Widget immer anzeigen?"
+
+#: ../dynwid_admin_edit.php:481
+msgid "Next to the above role option, the date option is also very powerfull. You've been warned!"
+msgstr "Als nächstes nach der obenstehenden Option kommt die Datum-Option. Die Warnung gilt ebenfalls!"
+
+#: ../dynwid_admin_edit.php:482
+msgid "Enter dates in the YYYY-MM-DD format. You can also use the calender by clicking on the"
+msgstr "Datum bitte im Forma JJJJ-MM-TT eintragen. Oder einfach auf den Kalender klicken "
+
+#: ../dynwid_admin_edit.php:483
+msgid ""
+"Date ranges can be made by entering a From AND a To date<br />\n"
+"  \t\t\t\t\tWhen you want the widget to be displayed from a specific date, only fill in the From date<br />\n"
+"  \t\t\t\t\tWhen you want the widget to stop displaying on a specific date, only fill in the To date.\n"
+"  \t\t\t\t"
+msgstr ""
+"Um einen Zeitraum zu bestimmen einfach \"von\" und \"bis\" eintragen.<br />\n"
+"  \t\t\t\t\tSoll das Widget ab einem bestimmten Datum angezeigt werden muss nur das \"von\" Feld ausgefüllt werden.<br />\n"
+"  \t\t\t\t\tSoll das Widget ab einem bestimmten Datum nicht mehr angezeigt werden muss nur das \"bis\" Feld ausgefüllt werden.\n"
+"  \t\t\t\t"
+
+#: ../dynwid_admin_edit.php:490
+msgid "only"
+msgstr "nur"
+
+#: ../dynwid_admin_edit.php:494
+msgid "From"
+msgstr "von"
+
+#: ../dynwid_admin_edit.php:498
+msgid "To"
+msgstr "bis"
+
+#: ../dynwid_admin_edit.php:507
+msgid "Language (WPML)"
+msgstr "Sprache (WPML)"
+
+#: ../dynwid_admin_edit.php:509
+msgid "Show widget default on all languages?"
+msgstr "Widget standardmäßig bei allen Sprachen anzeigen?"
+
+#: ../dynwid_admin_edit.php:513
+msgid "Using this option can override all other options."
+msgstr "Diese Option kann bei Benutzung alle anderen überschreiben."
+
+#: ../dynwid_admin_edit.php:518
+msgid "Except the languages"
+msgstr "Ausgenommen diese Sprache(n)"
+
+#: ../dynwid_admin_edit.php:528
+#: ../dynwid_class_php4.php:58
+#: ../dynwid_class.php:52
+msgid "Browser"
+msgstr "Browser"
+
+#: ../dynwid_admin_edit.php:530
+msgid "Show widget with all browsers?"
+msgstr "Widget für alle Browser anzeigen?"
+
+#: ../dynwid_admin_edit.php:534
+msgid "Browser detection is never 100% accurate."
+msgstr "Browser-Erkennung funktioniert nie zu 100%."
+
+#: ../dynwid_admin_edit.php:539
+msgid "Except the browser(s)"
+msgstr "Ausgenommen diese(r) Browser"
+
+#: ../dynwid_admin_edit.php:549
+#: ../dynwid_class_php4.php:60
+#: ../dynwid_class.php:54
+msgid "Front Page"
+msgstr "Startseite"
+
+#: ../dynwid_admin_edit.php:551
+msgid "Show widget on the front page?"
+msgstr "Das Widget auf der Startseite anzeigen?"
+
+#: ../dynwid_admin_edit.php:555
+msgid ""
+"This option only applies when your front page is set to display your latest posts (See Settings &gt; Reading).<br />\n"
+"\t\t\t\t\t\tWhen a static page is set, you can use the options for the static pages below.\n"
+"\t\t\t\t\t"
+msgstr ""
+"Diese Option greift nur wenn die Startseite die letzten Artikel anzeigt (siehe Einstellungen &gt; Lesen)<br />\n"
+"\t\t\t\t\t\tWenn eine statische Seite benutzt wird muss die Option für statische Seiten, weiter unten, benutzt werden.\n"
+"\t\t\t\t\t"
+
+#: ../dynwid_admin_edit.php:566
+#: ../dynwid_class_php4.php:61
+#: ../dynwid_class.php:55
+msgid "Single Posts"
+msgstr "Artikel"
+
+#: ../dynwid_admin_edit.php:568
+msgid "Show widget default on single posts?"
+msgstr "Das Widget auf Artikelseiten anzeigen?"
+
+#: ../dynwid_admin_edit.php:572
+msgid ""
+"When you use an author <b>AND</b> a category exception, both rules in the condition must be met. Otherwise the exception rule won't be applied.\n"
+"  \t\t\t\t\tIf you want to use the rules in a logical OR condition. Add the same widget again and apply the other rule to that.\n"
+"  \t\t\t\t\t"
+msgstr ""
+"Sollen ein Autor <b>UND</b> eine Kategorie als Filter gesetzt werden müssen beide Optionen markiert werden.\n"
+"  \t\t\t\t\tWird als Regel ein logisches <b>ODER</b> gebraucht muss das Widget dubliziert werden und die zweite Regel darauf angewendet werden.\n"
+"  \t\t\t\t\t"
+
+#: ../dynwid_admin_edit.php:581
+msgid "Make exception rule available to individual posts and tags."
+msgstr "Ausnahmeregeln für individuelle Artikel oder nach Schlagwörtern"
+
+#: ../dynwid_admin_edit.php:585
+msgid ""
+"When you enable this option, you have the ability to apply the exception rule for <em>Single Posts</em> to tags and individual posts.\n"
+"\t\t\t\t\t\tYou can set the exception rule for tags in the single Edit Tag Panel (go to <a href=\"edit-tags.php?taxonomy=post_tag\">Post Tags</a>,\n"
+"\t\t\t\t\t\tclick a tag), For individual posts in the <a href=\"post-new.php\">New</a> or <a href=\"edit.php\">Edit</a> Posts panel.\n"
+"\t\t\t\t\t\tException rules for tags and individual posts in any combination work independantly, but will always be counted as one exception.<br />\n"
+"  \t\t\t\t\tPlease note when exception rules are set for Author and/or Category, these will be removed.\n"
+"  \t\t\t\t"
+msgstr ""
+"Wird diese Option aktiviert können einzelne Artikel oder Artikel anhand von Schlagwörtern ausgeschlossen werden.\n"
+"\t\t\t\t\t\tUm einzelne Schlagwörter zu benutzern müsen diese berarbeitet werden (siehe <a href=\"edit-tags.php?taxonomy=post_tag\">Schlagwörter</a>,\n"
+"\t\t\t\t\t\tum ein Schlagwört zu bearbeiten). Für einzelne Artikel siehe <a href=\"post-new.php\">neuer Artikel</a> oder <a href=\"edit.php\">Artikel bearbeiten</a>.\n"
+"\t\t\t\t\t\tAusnahmeregeln für einzelne Artikel oder Schlägwörter in jeglicher Kombination funktionieren unabhängig, werden aber immer als einzelne Regel betrachtet.<br />\n"
+"  \t\t\t\t\tBitte beachten! Sind Ausnahmeregeln für Autor und/oder Kategorie gesetzt, werden diese ignoriert.\n"
+"  \t\t\t\t"
+
+#: ../dynwid_admin_edit.php:602
+msgid "Except the posts by author"
+msgstr "Ausgenommen Artikel von diesem Autor"
+
+#: ../dynwid_admin_edit.php:613
+msgid "Except the posts in category"
+msgstr "Ausgenommen Artikel in dieser Kategorie"
+
+#: ../dynwid_admin_edit.php:627
+#: ../dynwid_class_php4.php:62
+#: ../dynwid_class.php:56
+msgid "Attachments"
+msgstr "Anhänge / Medien"
+
+#: ../dynwid_admin_edit.php:629
+msgid "Show widget on attachment pages"
+msgstr "Widget auf Anhang Seiten anzeigen"
+
+#: ../dynwid_admin_edit.php:636
+#: ../dynwid_class_php4.php:63
+#: ../dynwid_class.php:57
+msgid "Pages"
+msgstr "Seiten"
+
+#: ../dynwid_admin_edit.php:638
+msgid "Show widget default on static pages?"
+msgstr "Widget auf statischen Seiten anzeigen?"
+
+#: ../dynwid_admin_edit.php:643
+msgid ""
+"Checking the \"All childs\" option, makes the exception rule apply\n"
+"\t\t\t\tto the parent and all items under it in all levels. Also future items\n"
+"\t\t\t\tunder the parent. It's not possible to apply an exception rule to\n"
+"\t\t\t\t\"All childs\" without the parent."
+msgstr ""
+"Klick auf \"alle Kinder\" aktiviert die Ausnahmeregel\n"
+"\t\t\t\tfür das Elternelement und alle Elemente die davon erben. Auch zukünftige Elemente\n"
+"\t\t\t\tunter diesem Elternelement. Es ist nicht möglich eine Ausnahmeregel für\n"
+"\t\t\t\t\"alle Kinder\" ohne das Elternelement zu aktivieren."
+
+#: ../dynwid_admin_edit.php:653
+msgid "Except the page(s)"
+msgstr "Alle bis auf diese Seite(n)"
+
+#: ../dynwid_admin_edit.php:692
+#: ../dynwid_admin_edit.php:807
+msgid "All childs"
+msgstr "alle Kinder"
+
+#: ../dynwid_admin_edit.php:709
+#: ../dynwid_class_php4.php:64
+#: ../dynwid_class.php:58
+msgid "Author Pages"
+msgstr "Autoren Seiten"
+
+#: ../dynwid_admin_edit.php:711
+msgid "Show widget default on author pages?"
+msgstr "Widget auf Autoren Seiten anzeigen?"
+
+#: ../dynwid_admin_edit.php:715
+msgid "Except the author(s)"
+msgstr "Ausgenommen diese(r) Autor(en)"
+
+#: ../dynwid_admin_edit.php:723
+#: ../dynwid_class_php4.php:65
+#: ../dynwid_class.php:59
+msgid "Category Pages"
+msgstr "Kategorie Seiten"
+
+#: ../dynwid_admin_edit.php:725
+msgid "Show widget default on category pages?"
+msgstr "Widget auf Kategorie Seiten anzeigen?"
+
+#: ../dynwid_admin_edit.php:729
+#: ../dynwid_admin_edit.php:950
+msgid "Except the categories"
+msgstr "Ausgenommen diese Kategorien"
+
+#: ../dynwid_admin_edit.php:738
+#: ../dynwid_class_php4.php:66
+#: ../dynwid_class.php:60
+msgid "Archive Pages"
+msgstr "Archiv Seiten"
+
+#: ../dynwid_admin_edit.php:740
+msgid "Show widget on archive pages"
+msgstr "Widget auf Archiv Seiten anzeigen"
+
+#: ../dynwid_admin_edit.php:744
+msgid "This option does not include Author and Category Pages."
+msgstr "Diese Option beinhaltet nicht Autoren und Kategorie Seiten"
+
+#: ../dynwid_admin_edit.php:753
+#: ../dynwid_class_php4.php:67
+#: ../dynwid_class.php:61
+msgid "Error Page"
+msgstr "Fehlerseite"
+
+#: ../dynwid_admin_edit.php:755
+msgid "Show widget on the error page?"
+msgstr "Widget auf der Fehlerseite anzeigen?"
+
+#: ../dynwid_admin_edit.php:762
+msgid "Search Page"
+msgstr "Suchseite"
+
+#: ../dynwid_admin_edit.php:764
+msgid "Show widget on the search page?"
+msgstr "Widget auf der Suchseite anzeigen?"
+
+#: ../dynwid_admin_edit.php:869
+msgid "Custom Post Type"
+msgstr "Individueller Artikel Typ"
+
+#: ../dynwid_admin_edit.php:871
+msgid "Show widget on"
+msgstr "Widget anzeigen auf"
+
+#: ../dynwid_admin_edit.php:886
+#: ../dynwid_admin_edit.php:928
+msgid "Except for"
+msgstr "Ausgenommen"
+
+#: ../dynwid_admin_edit.php:920
+msgid "Custom Post Type Archives"
+msgstr "Individuelle Artike-Typ-Archive"
+
+#: ../dynwid_admin_edit.php:922
+msgid "Show widget on Custom Post Type Archives"
+msgstr "Widget in individuellen Artikel-Typ-Archiven anzeigen?"
+
+#: ../dynwid_admin_edit.php:944
+#: ../dynwid_class_php4.php:69
+#: ../dynwid_class.php:63
+msgid "WPSC Category"
+msgstr "WPSC Kategorie"
+
+#: ../dynwid_admin_edit.php:946
+msgid "Show widget default on WPSC categories?"
+msgstr "Widget standardmäßig auf WPSC Kategorien anzeigen?"
+
+#: ../dynwid_admin_edit.php:965
+msgid "Save"
+msgstr "speichern"
+
+#: ../dynwid_class_php4.php:59
+#: ../dynwid_class.php:53
+msgid "Language"
+msgstr "Sprache"
+
+#: ../dynwid_class_php4.php:68
+#: ../dynwid_class.php:62
+msgid "Search page"
+msgstr "Suchseite"
+
+#: ../dynwid_admin.php:10
+#: ../dynamic-widgets.php:139
+#: ../dynamic-widgets.php:218
+#: ../dynamic-widgets.php:563
+msgid "Dynamic Widgets"
+msgstr "Dynamic Widgets"
+
+#: ../dynwid_admin.php:16
+msgid "<b>WARNING</b> STRICT sql mode in effect. Dynamic Widgets might not work correctly. Please disable STRICT sql mode."
+msgstr "<b>Warnung</b> STRICT sql mode ist aktiv. Dynamic Widgets arbeitet möglicherweise nicht korrekt. Bitte STRICT sql mode abschalten."
+
+#: ../dynwid_admin.php:36
+msgid "Oops! Something went terrible wrong. Please reinstall Dynamic Widgets."
+msgstr "Huch! Irgend etwas ist böse schief gegangen. Dynamic Widgets muss neu installiert werden."
+
+#: ../dynwid_admin.php:44
+#: ../dynwid_admin_overview.php:28
+msgid "OLD"
+msgstr "ALTE"
+
+#: ../dynwid_admin.php:44
+#: ../dynwid_admin_overview.php:28
+msgid "FILTER"
+msgstr "FILTER"
+
+#: ../dynwid_admin_overview.php:15
+msgid "Widget options have been reset to default."
+msgstr "Widget Optionen wurden zurück gesetzt."
+
+#: ../dynwid_admin_overview.php:28
+msgid "Method set to"
+msgstr "Methode geändert auf"
+
+#: ../dynwid_admin_overview.php:36
+msgid "Inactive Widgets"
+msgstr "Inaktive Widgets"
+
+#: ../dynwid_admin_overview.php:59
+#: ../dynwid_admin_overview.php:62
+msgid "Edit this widget options"
+msgstr "Diese Widget Optionen bearbeiten"
+
+#: ../dynwid_admin_overview.php:62
+msgid "Edit"
+msgstr "bearbeiten"
+
+#: ../dynwid_admin_overview.php:67
+msgid "Reset widget to Static"
+msgstr "Widget zurück auf \"statisch\" setzen"
+
+#: ../dynwid_admin_overview.php:67
+#: ../dynamic-widgets.php:131
+msgid "Reset"
+msgstr "zurücksetzen"
+
+#: ../dynwid_admin_overview.php:73
+#: ../dynamic-widgets.php:128
+#: ../dynamic-widgets.php:130
+#: ../dynamic-widgets.php:565
+msgid "Dynamic"
+msgstr "dynamisch"
+
+#: ../dynwid_admin_overview.php:73
+#: ../dynamic-widgets.php:128
+#: ../dynamic-widgets.php:129
+#: ../dynamic-widgets.php:132
+#: ../dynamic-widgets.php:565
+msgid "Static"
+msgstr "statisch"
+
+#: ../dynwid_admin_overview.php:88
+msgid "Advanced"
+msgstr "Fortgeschrittene"
+
+#: ../dynwid_admin_overview.php:90
+msgid "wp_head() check:"
+msgstr "wp_head() geprüft:"
+
+#: ../dynwid_admin_overview.php:95
+msgid "wp_head() is NOT called (at the most obvious place)"
+msgstr "wp_head() wird nicht aufgerufen (am üblichen Ort)"
+
+#: ../dynwid_admin_overview.php:99
+msgid "wp_head() is called"
+msgstr "wp_head() wird aufgerufen"
+
+#: ../dynwid_admin_overview.php:103
+msgid "Unable to determine if wp_head() is called"
+msgstr "Es kann nicht festegstellt werden, ob wp_head() aufgerufen wird"
+
+#: ../dynwid_admin_overview.php:114
+msgid "Use 'OLD' method"
+msgstr "Benutze \"alte\" Methode"
+
+#: ../dynwid_admin_overview.php:119
+msgid "For debugging purposes it is possible you're asked to create a dump. Click the 'Create dump' button and save the text file."
+msgstr "Zur Fehlerbehandlung kann eventuell nötig sein ein Abbild zu erstellen. Dazu auf \"Abbild erstellen\" klicken und Abbild als Text-Datei speichern. "
+
+#: ../dynwid_admin_overview.php:124
+msgid "Create dump"
+msgstr "Abbild erstellen"
+
+#: ../dynwid_admin_overview.php:130
+msgid "When you deceide not to use this plugin anymore (sorry to hear that!). You can cleanup all settings and data related to this plugin by clicking on the 'Uninstall' button. This process is irreversible! After the cleanup the plugin is deactivated automaticly."
+msgstr "Wenn das Plugin nicht mehr verwendet werden soll (tut uns leid das zu hören!) können alle Einstellungen und Daten in Zusammenhang mit dem Plugin durch Klick auf die \"Zurücksetzen\"-Schaltfläche entfernt werden.  Dieser Prozess kann nicht rückgängig gemacht werden! Nach dem Zurücksetzen wird das Plugin automatisch deaktiviert."
+
+#: ../dynwid_admin_overview.php:135
+msgid "Uninstall"
+msgstr "Zurücksetzen"
+
+#: ../dynamic-widgets.php:124
+msgid "Widgets are always displayed by default"
+msgstr "Widgets werden standardmäßig immer angezeigt"
+
+#: ../dynamic-widgets.php:124
+msgid "The '<em>Yes</em>' selection"
+msgstr "Die '<em>Ja</em>' Auswahl"
+
+#: ../dynamic-widgets.php:125
+msgid "Click on the"
+msgstr "Klicken Sie"
+
+#: ../dynamic-widgets.php:125
+msgid "next to the options for more info"
+msgstr "neben die Optionen für weitergehende Informationen"
+
+#: ../dynamic-widgets.php:126
+msgid "The"
+msgstr "Das"
+
+#: ../dynamic-widgets.php:126
+msgid "next to a section means it has options set."
+msgstr "neben einer Sektion bedeutet, dass die Option aktiviert ist."
+
+#: ../dynamic-widgets.php:129
+msgid "When a widget is"
+msgstr "Wenn das Widget"
+
+#: ../dynamic-widgets.php:129
+msgid "the widget uses the WordPress default. In other words, it's shown everywhere"
+msgstr "ist, benutzt das Widget WordPress Standardeinstellungen. Besser gesagt, es wird überall angezeigt. "
+
+#: ../dynamic-widgets.php:130
+msgid "A widget is"
+msgstr "Ein Widget ist"
+
+#: ../dynamic-widgets.php:130
+msgid "when there are options set, i.e. not showing on the front page."
+msgstr "wenn Optionen gesetzt sind, z.B. dass es nicht auf der Startseite angezeigt wird."
+
+#: ../dynamic-widgets.php:132
+msgid "Reset makes the widget return to"
+msgstr "Durch zurücksetzen wird das Widget wieder auf folgenden Status gesetzt"
+
+#: ../dynamic-widgets.php:171
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: ../dynamic-widgets.php:185
+msgid "Apply exception rule to widgets:"
+msgstr "Ausnahmeregel auf Widgets anwenden:"
+
+#: ../dynamic-widgets.php:201
+msgid "Off"
+msgstr "Aus"
+
+#: ../dynamic-widgets.php:201
+msgid "On"
+msgstr "An"
+
+#: ../dynamic-widgets.php:202
+msgid " (Default: "
+msgstr "(Standard:"
+
+#: ../dynamic-widgets.php:299
+msgid "Dynamic Widgets Options saved"
+msgstr "Widget Optionen gespeichert"
+
+#: ../dynamic-widgets.php:299
+msgid "for"
+msgstr "für"
+
+#: ../dynamic-widgets.php:564
+msgid "Edit Dynamic Widgets Options"
+msgstr "Dynamic Widgets Optionen bearbeiten"
+
+#: ../dynamic-widgets.php:589
+msgid "and"
+msgstr "und"
+
+#: ../dynamic-widgets.php:595
+msgid "Options set for"
+msgstr "Optionen wurden gesetzt für"
+
+#: ../dynamic-widgets.php:595
+msgid "Option set for"
+msgstr "Optionen wurde gesetzt für"
+
+#~ msgid "Dynamic Widgets: "
+#~ msgstr "Dynamic Widgets:"
+
+#~ msgid "Widget"
+#~ msgstr "Widget"
+
+#~ msgid "selection"
+#~ msgstr "Auswahl"
+
+#~ msgid "This widget is"
+#~ msgstr "Dieses Widget ist"

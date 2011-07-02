@@ -1,0 +1,88 @@
+.steam-profile .icon {
+    border-radius:3px; 
+    -moz-border-radius:3px;
+    -webkit-border-radius:3px;
+    border: 3px solid #64707B;
+}
+
+.steam-profile .profile-container {
+    margin: 2px 0px 2px 0px;
+    padding: 0px;
+    background-color: #262627;
+}
+
+.steam-profile .profile-container div.inner {
+    margin: 3px;
+}
+
+.steam-profile .ingame {
+    border-color: #9AE042;
+    color: #9AE042;
+}
+
+.steam-profile .online {
+    border-color: #6298C4;
+    color: #6298C4;
+}
+
+.steam-profile .offline {
+    border-color: #64707B;
+    color: #64707B;
+}
+form.pubcomp-form label {
+	display: block;
+	font-size: 1.65em;
+	font-weight: bold;
+	letter-spacing: -0.025em;
+	margin: 0 0 5px 15px;
+	text-align: left;
+ 
+}
+ 
+form.pubcomp-form input {
+	-border-radius-bottomleft: 20px;
+	-border-radius-bottomright: 20px;
+	-border-radius-topleft: 20px;
+	-border-radius-topright: 20px;
+	-moz-border-radius-bottomleft: 20px;
+	-moz-border-radius-bottomright: 20px;
+	-moz-border-radius-topleft: 20px;
+	-moz-border-radius-topright: 20px;
+	-webkit-border-bottom-left-radius: 20px;
+	-webkit-border-bottom-right-radius: 20px;
+	-webkit-border-top-left-radius: 20px;
+	-webkit-border-top-right-radius: 20px;
+	background-color: #eaeaea;
+	background: -moz-linear-gradient(top, #ffffff, #eaeaea);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #ffffff), color-stop(1.0, #eaeaea));
+	border: 1px solid #cacaca;
+	color: #444;
+	font-size: 1.4em;
+	margin: 0 0 25px;
+	padding: 8px 10px;
+	width: 240px;
+}
+ 
+form.pubcomp-form input.button {
+	-border-radius-bottomleft: 32px;
+	-border-radius-bottomright: 32px;
+	-border-radius-topleft: 32px;
+	-border-radius-topright: 32px;
+	-moz-border-radius-bottomleft: 32px;
+	-moz-border-radius-bottomright: 32px;
+	-moz-border-radius-topleft: 32px;
+	-moz-border-radius-topright: 32px;
+	-webkit-border-bottom-left-radius: 32px;
+	-webkit-border-bottom-right-radius: 32px;
+	-webkit-border-top-left-radius: 32px;
+	-webkit-border-top-right-radius: 32px;
+	background-color: #dedede;
+	background: -moz-linear-gradient(top, #ffffff, #eaeaea);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0.0, #ffffff), color-stop(1.0, #dedede));
+	border: 1px solid #dedede;
+	color: #484848;
+	font-size: 1.65em;
+	font-weight: bold;
+	padding: 10px 15px;
+}
+
